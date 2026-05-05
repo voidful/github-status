@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:59:24.537Z",
+  "generatedAt": "2026-05-05T19:55:41.369Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 436,
+    "followers": 437,
     "following": 333,
-    "publicRepos": 193,
+    "publicRepos": 194,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 111,
-    "allOwnedRepoCount": 193,
-    "sourceRepoCount": 111,
+    "selectedRepoCount": 112,
+    "allOwnedRepoCount": 194,
+    "sourceRepoCount": 112,
     "forkedRepoCount": 82,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2892,
-    "forks": 463,
-    "watchers": 2892,
+    "stars": 2897,
+    "forks": 465,
+    "watchers": 2897,
     "openIssues": 55,
-    "sizeKB": 58937414,
-    "latestPushAt": "2026-05-04T18:15:17.000Z"
+    "sizeKB": 58942007,
+    "latestPushAt": "2026-05-05T19:20:53.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 502,
-    "commits": 343,
+    "totalContributions": 531,
+    "commits": 367,
     "issues": 0,
     "pullRequests": 3,
     "pullRequestReviews": 0,
-    "repositories": 12,
-    "restricted": 144,
+    "repositories": 13,
+    "restricted": 148,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-04T19:59:24.213Z"
+    "to": "2026-05-05T19:55:40.953Z"
   },
   "languages": [
     {
       "name": "HTML",
-      "bytes": 35530889,
-      "percent": 75.88523475160349
+      "bytes": 35529970,
+      "percent": 75.27881470153905
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4629974,
-      "percent": 9.88848502731864
+      "percent": 9.809717115408304
     },
     {
       "name": "Python",
-      "bytes": 3961240,
-      "percent": 8.460233778767591
+      "bytes": 4243426,
+      "percent": 8.990721904738255
     },
     {
       "name": "JavaScript",
-      "bytes": 1027065,
-      "percent": 2.193558079285763
+      "bytes": 1057166,
+      "percent": 2.2398612614299207
     },
     {
       "name": "CSS",
-      "bytes": 655809,
-      "percent": 1.4006466293937745
+      "bytes": 659857,
+      "percent": 1.3980662756684978
     },
     {
       "name": "Rust",
       "bytes": 431451,
-      "percent": 0.921473155901449
+      "percent": 0.9141330511056928
     },
     {
       "name": "SCSS",
       "bytes": 412673,
-      "percent": 0.8813679691675732
+      "percent": 0.874347327040474
     },
     {
-      "name": "TypeScript",
-      "bytes": 61390,
-      "percent": 0.1311139319199398
+      "name": "Shell",
+      "bytes": 88273,
+      "percent": 0.18702765046379036
     }
   ],
   "topRepos": [
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/Codec-SUPERB",
       "description": "Audio Codec Speech processing Universal PERformance Benchmark",
       "language": "Python",
-      "stars": 301,
+      "stars": 302,
       "forks": 28,
       "openIssues": 0,
-      "pushedAt": "2026-04-30T08:51:34Z",
+      "pushedAt": "2026-05-05T15:46:08Z",
       "archived": false,
       "fork": false,
-      "score": 1260
+      "score": 1264
     },
     {
       "name": "tw-institutional-stocker",
@@ -140,7 +140,7 @@
       "stars": 208,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-04T13:05:27Z",
+      "pushedAt": "2026-05-05T12:23:19Z",
       "archived": false,
       "fork": false,
       "score": 1000
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 156,
-      "forks": 54,
+      "stars": 157,
+      "forks": 56,
       "openIssues": 0,
-      "pushedAt": "2026-05-04T11:40:43Z",
+      "pushedAt": "2026-05-05T11:15:01Z",
       "archived": false,
       "fork": false,
-      "score": 732
+      "score": 740
     },
     {
       "name": "hung-yi-lee-skill",
