@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:57:55.920Z",
+  "generatedAt": "2026-05-08T19:49:42.312Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 436,
+    "followers": 437,
     "following": 333,
-    "publicRepos": 193,
+    "publicRepos": 194,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 111,
-    "allOwnedRepoCount": 193,
-    "sourceRepoCount": 111,
+    "selectedRepoCount": 112,
+    "allOwnedRepoCount": 194,
+    "sourceRepoCount": 112,
     "forkedRepoCount": 82,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 2905,
-    "forks": 465,
-    "watchers": 2905,
+    "stars": 2908,
+    "forks": 466,
+    "watchers": 2908,
     "openIssues": 55,
-    "sizeKB": 58942500,
-    "latestPushAt": "2026-05-07T18:24:56.000Z"
+    "sizeKB": 58945374,
+    "latestPushAt": "2026-05-08T19:18:26.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 564,
-    "commits": 370,
+    "totalContributions": 579,
+    "commits": 374,
     "issues": 0,
     "pullRequests": 3,
     "pullRequestReviews": 0,
-    "repositories": 12,
-    "restricted": 179,
+    "repositories": 13,
+    "restricted": 189,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-05-07T19:57:55.603Z"
+    "to": "2026-05-08T19:49:42.041Z"
   },
   "languages": [
     {
       "name": "HTML",
-      "bytes": 35530348,
-      "percent": 75.8088887089047
+      "bytes": 35546167,
+      "percent": 75.84983757315631
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4629974,
-      "percent": 9.878686909881162
+      "percent": 9.879624316960442
     },
     {
       "name": "Python",
-      "bytes": 3974072,
-      "percent": 8.479229698768341
+      "bytes": 3953806,
+      "percent": 8.436789904682856
     },
     {
       "name": "JavaScript",
       "bytes": 1057166,
-      "percent": 2.255609194732288
+      "percent": 2.2558232337079653
     },
     {
       "name": "CSS",
       "bytes": 659857,
-      "percent": 1.4078957480740613
+      "percent": 1.4080293459351103
     },
     {
       "name": "Rust",
       "bytes": 431451,
-      "percent": 0.9205601037835498
+      "percent": 0.9206474574537351
     },
     {
       "name": "SCSS",
       "bytes": 412673,
-      "percent": 0.8804946557283884
+      "percent": 0.880578207513264
     },
     {
       "name": "TypeScript",
       "bytes": 61390,
-      "percent": 0.13098401619482195
+      "percent": 0.1309964455131285
     }
   ],
   "topRepos": [
@@ -140,7 +140,7 @@
       "stars": 209,
       "forks": 84,
       "openIssues": 0,
-      "pushedAt": "2026-05-07T13:12:12Z",
+      "pushedAt": "2026-05-08T12:28:30Z",
       "archived": false,
       "fork": false,
       "score": 1004
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 158,
-      "forks": 56,
+      "stars": 159,
+      "forks": 57,
       "openIssues": 0,
-      "pushedAt": "2026-05-07T11:46:29Z",
+      "pushedAt": "2026-05-08T11:02:27Z",
       "archived": false,
       "fork": false,
-      "score": 744
+      "score": 750
     },
     {
       "name": "hung-yi-lee-skill",
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 93,
+      "stars": 94,
       "forks": 3,
       "openIssues": 0,
       "pushedAt": "2026-04-09T15:57:07Z",
       "archived": false,
       "fork": false,
-      "score": 378
+      "score": 382
     }
   ]
 }
