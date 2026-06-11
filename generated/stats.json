@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T21:04:05.272Z",
+  "generatedAt": "2026-06-11T20:39:10.094Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 448,
+    "followers": 451,
     "following": 336,
-    "publicRepos": 200,
+    "publicRepos": 202,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 116,
-    "allOwnedRepoCount": 200,
-    "sourceRepoCount": 116,
+    "selectedRepoCount": 118,
+    "allOwnedRepoCount": 202,
+    "sourceRepoCount": 118,
     "forkedRepoCount": 84,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3097,
-    "forks": 504,
-    "watchers": 3097,
+    "stars": 3127,
+    "forks": 509,
+    "watchers": 3127,
     "openIssues": 56,
-    "sizeKB": 59034165,
-    "latestPushAt": "2026-06-10T19:42:32.000Z"
+    "sizeKB": 59045129,
+    "latestPushAt": "2026-06-11T18:51:29.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1574,
-    "commits": 487,
+    "totalContributions": 1585,
+    "commits": 496,
     "issues": 0,
     "pullRequests": 5,
     "pullRequestReviews": 0,
-    "repositories": 19,
+    "repositories": 21,
     "restricted": 1063,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-10T21:04:04.971Z"
+    "to": "2026-06-11T20:39:09.722Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 114834459,
-      "percent": 68.22630531169199
+      "percent": 68.08516639186519
     },
     {
       "name": "HTML",
-      "bytes": 36579192,
-      "percent": 21.732702388984134
+      "bytes": 36594158,
+      "percent": 21.696617531852564
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.889639303556188
+      "percent": 2.8836615422201497
     },
     {
       "name": "Python",
-      "bytes": 4739197,
-      "percent": 2.8156870705008044
+      "bytes": 4792041,
+      "percent": 2.8411934160079944
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.3533629384669559
+      "percent": 1.3505632531784706
     },
     {
       "name": "JavaScript",
       "bytes": 1955740,
-      "percent": 1.161958836330552
+      "percent": 1.159555106357286
     },
     {
       "name": "Rust",
       "bytes": 1295900,
-      "percent": 0.7699297738967154
+      "percent": 0.7683370296299135
     },
     {
-      "name": "SCSS",
-      "bytes": 419405,
-      "percent": 0.2491800268702461
+      "name": "Swift",
+      "bytes": 572226,
+      "percent": 0.3392718767783061
     }
   ],
   "topRepos": [
@@ -140,24 +140,10 @@
       "stars": 211,
       "forks": 89,
       "openIssues": 0,
-      "pushedAt": "2026-06-10T14:43:19Z",
+      "pushedAt": "2026-06-11T15:07:51Z",
       "archived": false,
       "fork": false,
       "score": 1022
-    },
-    {
-      "name": "tw_stocker",
-      "fullName": "voidful/tw_stocker",
-      "url": "https://github.com/voidful/tw_stocker",
-      "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
-      "language": "Python",
-      "stars": 178,
-      "forks": 65,
-      "openIssues": 1,
-      "pushedAt": "2026-06-10T12:44:52Z",
-      "archived": false,
-      "fork": false,
-      "score": 842
     },
     {
       "name": "hung-yi-lee-skill",
@@ -165,13 +151,27 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 194,
-      "forks": 20,
+      "stars": 220,
+      "forks": 25,
       "openIssues": 0,
-      "pushedAt": "2026-04-09T15:57:07Z",
+      "pushedAt": "2026-06-11T00:00:55Z",
       "archived": false,
       "fork": false,
-      "score": 816
+      "score": 930
+    },
+    {
+      "name": "tw_stocker",
+      "fullName": "voidful/tw_stocker",
+      "url": "https://github.com/voidful/tw_stocker",
+      "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
+      "language": "Python",
+      "stars": 179,
+      "forks": 65,
+      "openIssues": 1,
+      "pushedAt": "2026-06-11T13:04:42Z",
+      "archived": false,
+      "fork": false,
+      "score": 846
     }
   ]
 }
