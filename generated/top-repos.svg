@@ -37,17 +37,17 @@
 
             <text x="28" y="265" class="repo" >hung-yi-lee-skill</text>
             <text x="28" y="286" class="desc" >一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。</text>
-            <text x="28" y="304" class="small" >HTML · ★ 243 · ⑂ 28 · active</text>
+            <text x="28" y="304" class="small" >HTML · ★ 260 · ⑂ 29 · active</text>
           
 
             <text x="28" y="320" class="repo" >tw-institutional-stocker</text>
-            <text x="28" y="341" class="desc" >Python · ★ 211 · ⑂ 89 · active</text>
-            <text x="28" y="359" class="small" >Python · ★ 211 · ⑂ 89 · active</text>
+            <text x="28" y="341" class="desc" >Python · ★ 211 · ⑂ 90 · active</text>
+            <text x="28" y="359" class="small" >Python · ★ 211 · ⑂ 90 · active</text>
           
 
             <text x="28" y="375" class="repo" >tw_stocker</text>
             <text x="28" y="396" class="desc" >keep tracking and store taiwan stock information - 每天更新台股歷史資料庫</text>
-            <text x="28" y="414" class="small" >Python · ★ 179 · ⑂ 65 · active</text>
+            <text x="28" y="414" class="small" >Python · ★ 179 · ⑂ 67 · active</text>
           
   
 </svg>
