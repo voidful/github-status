@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T19:57:43.338Z",
+  "generatedAt": "2026-06-14T20:01:53.811Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 451,
+    "followers": 452,
     "following": 336,
     "publicRepos": 203,
     "publicGists": 4
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3169,
-    "forks": 517,
-    "watchers": 3169,
+    "stars": 3195,
+    "forks": 519,
+    "watchers": 3195,
     "openIssues": 58,
-    "sizeKB": 59045619,
-    "latestPushAt": "2026-06-13T18:08:46.000Z"
+    "sizeKB": 59046044,
+    "latestPushAt": "2026-06-14T18:17:55.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1642,
-    "commits": 548,
+    "totalContributions": 1664,
+    "commits": 561,
     "issues": 0,
     "pullRequests": 5,
     "pullRequestReviews": 0,
     "repositories": 22,
-    "restricted": 1067,
+    "restricted": 1076,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-06-13T19:57:42.899Z"
+    "to": "2026-06-14T20:01:53.496Z"
   },
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 114834459,
-      "percent": 68.00434199420641
+      "bytes": 114944039,
+      "percent": 67.9803539540613
     },
     {
       "name": "HTML",
       "bytes": 36676150,
-      "percent": 21.719416535334695
+      "percent": 21.69105662514822
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4863669,
-      "percent": 2.8802383265690303
+      "percent": 2.8764774842773306
     },
     {
       "name": "Python",
       "bytes": 4823870,
-      "percent": 2.856669575249991
+      "percent": 2.8529395076188133
     },
     {
       "name": "CSS",
       "bytes": 2277900,
-      "percent": 1.3489599896891822
+      "percent": 1.3471985987194712
     },
     {
       "name": "JavaScript",
-      "bytes": 1955740,
-      "percent": 1.1581785900323636
+      "bytes": 1994901,
+      "percent": 1.179826959824431
     },
     {
       "name": "Rust",
-      "bytes": 1295900,
-      "percent": 0.7674249311375437
+      "bytes": 1364076,
+      "percent": 0.8067436128657365
     },
     {
       "name": "Swift",
-      "bytes": 650162,
-      "percent": 0.3850223999369147
+      "bytes": 652585,
+      "percent": 0.3859526746324887
     }
   ],
   "topRepos": [
@@ -137,13 +137,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
       "language": "HTML",
-      "stars": 260,
-      "forks": 29,
+      "stars": 286,
+      "forks": 30,
       "openIssues": 0,
       "pushedAt": "2026-06-11T00:00:55Z",
       "archived": false,
       "fork": false,
-      "score": 1098
+      "score": 1204
     },
     {
       "name": "tw-institutional-stocker",
@@ -152,12 +152,12 @@
       "description": "",
       "language": "Python",
       "stars": 211,
-      "forks": 90,
+      "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-06-13T13:11:33Z",
+      "pushedAt": "2026-06-14T13:21:16Z",
       "archived": false,
       "fork": false,
-      "score": 1024
+      "score": 1026
     },
     {
       "name": "tw_stocker",
