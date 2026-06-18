@@ -23,21 +23,21 @@
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="226.69" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >78.2%</text>
+    <rect x="185" y="83" width="226.51" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >78.1%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="31.95" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="122" class="small" >11.0%</text>
+    <rect x="185" y="112" width="32.16" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >11.1%</text>
           
 
             <text x="28" y="151" class="label" >Jupyter Notebook</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="9.59" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="9.58" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >3.3%</text>
           
 
@@ -51,7 +51,7 @@
             <text x="28" y="209" class="label" >CSS</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="4.27" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="4.26" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >1.5%</text>
           
 
