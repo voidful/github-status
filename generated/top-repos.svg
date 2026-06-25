@@ -27,7 +27,7 @@
 
             <text x="28" y="155" class="repo" >hung-yi-lee-skill</text>
             <text x="28" y="176" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
-            <text x="28" y="194" class="small" >HTML · ★ 677 · ⑂ 70 · active</text>
+            <text x="28" y="194" class="small" >HTML · ★ 680 · ⑂ 71 · active</text>
           
 
             <text x="28" y="210" class="repo" >TextRL</text>
@@ -37,7 +37,7 @@
 
             <text x="28" y="265" class="repo" >Codec-SUPERB</text>
             <text x="28" y="286" class="desc" >Audio Codec Speech processing Universal PERformance Benchmark</text>
-            <text x="28" y="304" class="small" >Python · ★ 306 · ⑂ 28 · active</text>
+            <text x="28" y="304" class="small" >Python · ★ 306 · ⑂ 27 · active</text>
           
 
             <text x="28" y="320" class="repo" >tw-institutional-stocker</text>
@@ -47,7 +47,7 @@
 
             <text x="28" y="375" class="repo" >tw_stocker</text>
             <text x="28" y="396" class="desc" >keep tracking and store taiwan stock information - 每天更新台股歷史資料庫</text>
-            <text x="28" y="414" class="small" >Python · ★ 184 · ⑂ 67 · active</text>
+            <text x="28" y="414" class="small" >Python · ★ 185 · ⑂ 67 · active</text>
           
   
 </svg>
