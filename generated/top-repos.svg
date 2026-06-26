@@ -20,14 +20,14 @@
     <text x="28" y="38" class="title" >Eric Lam&apos;s Top Repositories</text>
     <text x="28" y="60" class="subtitle" >Ranked by stars, forks, watchers, and recent activity</text>
     
-            <text x="28" y="100" class="repo" >awesome-chatgpt-dataset</text>
-            <text x="28" y="121" class="desc" >Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatG…</text>
-            <text x="28" y="139" class="small" >Python · ★ 762 · ⑂ 65 · active</text>
+            <text x="28" y="100" class="repo" >hung-yi-lee-skill</text>
+            <text x="28" y="121" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
+            <text x="28" y="139" class="small" >HTML · ★ 818 · ⑂ 81 · active</text>
           
 
-            <text x="28" y="155" class="repo" >hung-yi-lee-skill</text>
-            <text x="28" y="176" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
-            <text x="28" y="194" class="small" >HTML · ★ 680 · ⑂ 71 · active</text>
+            <text x="28" y="155" class="repo" >awesome-chatgpt-dataset</text>
+            <text x="28" y="176" class="desc" >Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatG…</text>
+            <text x="28" y="194" class="small" >Python · ★ 762 · ⑂ 65 · active</text>
           
 
             <text x="28" y="210" class="repo" >TextRL</text>
