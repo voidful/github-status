@@ -23,21 +23,21 @@
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="225.10" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >77.6%</text>
+    <rect x="185" y="83" width="224.87" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >77.5%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="32.31" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="32.28" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >11.1%</text>
           
 
             <text x="28" y="151" class="label" >Jupyter Notebook</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="9.52" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="9.51" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >3.3%</text>
           
 
@@ -51,7 +51,7 @@
             <text x="28" y="209" class="label" >CSS</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="4.24" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="199" width="4.23" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="209" class="small" >1.5%</text>
           
 
@@ -73,7 +73,7 @@
             
     <rect x="185" y="286" width="290" height="8" rx="4" fill="#eaeef2"/>
     <rect x="185" y="286" width="2.00" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="296" class="small" >0.4%</text>
+            <text x="490" y="296" class="small" >0.6%</text>
           
   
 </svg>
