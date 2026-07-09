@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:58:36.384Z",
+  "generatedAt": "2026-07-09T20:12:24.384Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -14,78 +14,78 @@
     "createdAt": "2015-02-08T05:15:03Z",
     "followers": 486,
     "following": 336,
-    "publicRepos": 210,
+    "publicRepos": 211,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 123,
-    "allOwnedRepoCount": 210,
-    "sourceRepoCount": 123,
+    "selectedRepoCount": 124,
+    "allOwnedRepoCount": 211,
+    "sourceRepoCount": 124,
     "forkedRepoCount": 87,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3871,
-    "forks": 585,
-    "watchers": 3871,
+    "stars": 3877,
+    "forks": 586,
+    "watchers": 3877,
     "openIssues": 58,
-    "sizeKB": 59593110,
-    "latestPushAt": "2026-07-08T18:17:46.000Z"
+    "sizeKB": 59575123,
+    "latestPushAt": "2026-07-09T19:46:58.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1882,
-    "commits": 1095,
+    "totalContributions": 1888,
+    "commits": 1099,
     "issues": 0,
     "pullRequests": 8,
     "pullRequestReviews": 0,
-    "repositories": 29,
-    "restricted": 750,
+    "repositories": 30,
+    "restricted": 751,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-08T19:58:36.051Z"
+    "to": "2026-07-09T20:12:24.058Z"
   },
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 114994647,
-      "percent": 77.50835659860567
+      "bytes": 115018879,
+      "percent": 77.34122549663947
     },
     {
       "name": "Python",
       "bytes": 16521882,
-      "percent": 11.13603072094377
+      "percent": 11.10967705911017
     },
     {
       "name": "Jupyter Notebook",
-      "bytes": 4863669,
-      "percent": 3.2781959948934305
+      "bytes": 4802779,
+      "percent": 3.2294942958844572
     },
     {
       "name": "HTML",
-      "bytes": 3694381,
-      "percent": 2.4900759072647394
+      "bytes": 4076601,
+      "percent": 2.7411962274543287
     },
     {
       "name": "CSS",
-      "bytes": 2165018,
-      "percent": 1.4592591182648709
+      "bytes": 2171396,
+      "percent": 1.4600944570021497
     },
     {
       "name": "JavaScript",
       "bytes": 1988162,
-      "percent": 1.3400551529307019
+      "percent": 1.3368838829132539
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.9194105273056722
+      "percent": 0.9172347220542288
     },
     {
       "name": "Swift",
       "bytes": 863161,
-      "percent": 0.5817852598826542
+      "percent": 0.580408452258562
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 923,
+      "stars": 927,
       "forks": 94,
       "openIssues": 2,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 3880
+      "score": 3896
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -109,13 +109,13 @@
       "url": "https://github.com/voidful/awesome-chatgpt-dataset",
       "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
       "language": "Python",
-      "stars": 764,
-      "forks": 65,
+      "stars": 765,
+      "forks": 66,
       "openIssues": 0,
       "pushedAt": "2025-10-20T09:50:30Z",
       "archived": false,
       "fork": false,
-      "score": 3186
+      "score": 3192
     },
     {
       "name": "TextRL",
@@ -154,7 +154,7 @@
       "stars": 213,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-07-08T12:55:23Z",
+      "pushedAt": "2026-07-09T14:02:53Z",
       "archived": false,
       "fork": false,
       "score": 1034
@@ -168,7 +168,7 @@
       "stars": 191,
       "forks": 69,
       "openIssues": 0,
-      "pushedAt": "2026-07-08T11:27:23Z",
+      "pushedAt": "2026-07-09T12:25:16Z",
       "archived": false,
       "fork": false,
       "score": 902
