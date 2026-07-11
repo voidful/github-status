@@ -22,7 +22,7 @@
     
             <text x="28" y="100" class="repo" >hung-yi-lee-skill</text>
             <text x="28" y="121" class="desc" >蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談</text>
-            <text x="28" y="139" class="small" >HTML · ★ 929 · ⑂ 94 · active</text>
+            <text x="28" y="139" class="small" >HTML · ★ 931 · ⑂ 95 · active</text>
           
 
             <text x="28" y="155" class="repo" >awesome-chatgpt-dataset</text>
@@ -32,7 +32,7 @@
 
             <text x="28" y="210" class="repo" >TextRL</text>
             <text x="28" y="231" class="desc" >Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedb…</text>
-            <text x="28" y="249" class="small" >Python · ★ 563 · ⑂ 61 · active</text>
+            <text x="28" y="249" class="small" >Python · ★ 564 · ⑂ 61 · active</text>
           
 
             <text x="28" y="265" class="repo" >Codec-SUPERB</text>
