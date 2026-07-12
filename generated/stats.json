@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T19:36:45.736Z",
+  "generatedAt": "2026-07-12T19:35:29.837Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 487,
+    "followers": 488,
     "following": 336,
     "publicRepos": 211,
     "publicGists": 4
@@ -27,24 +27,24 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3885,
+    "stars": 3891,
     "forks": 588,
-    "watchers": 3885,
+    "watchers": 3891,
     "openIssues": 58,
-    "sizeKB": 59576381,
-    "latestPushAt": "2026-07-11T19:18:26.000Z"
+    "sizeKB": 59576558,
+    "latestPushAt": "2026-07-12T19:06:30.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1894,
+    "totalContributions": 1897,
     "commits": 1104,
     "issues": 0,
     "pullRequests": 8,
     "pullRequestReviews": 0,
     "repositories": 30,
-    "restricted": 752,
+    "restricted": 755,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-11T19:36:45.402Z"
+    "to": "2026-07-12T19:35:29.514Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 931,
+      "stars": 933,
       "forks": 95,
       "openIssues": 2,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 3914
+      "score": 3922
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw-institutional-stocker",
       "description": "",
       "language": "Python",
-      "stars": 213,
+      "stars": 214,
       "forks": 91,
       "openIssues": 0,
       "pushedAt": "2026-07-09T14:02:53Z",
       "archived": false,
       "fork": false,
-      "score": 1034
+      "score": 1038
     },
     {
       "name": "tw_stocker",
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "Python",
-      "stars": 191,
+      "stars": 194,
       "forks": 69,
       "openIssues": 0,
       "pushedAt": "2026-07-10T12:19:42Z",
       "archived": false,
       "fork": false,
-      "score": 902
+      "score": 914
     }
   ]
 }
