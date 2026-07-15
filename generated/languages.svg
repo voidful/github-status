@@ -18,33 +18,33 @@
   <rect x="0.5" y="0.5" width="559" height="323" rx="12" fill="#ffffff" stroke="#d0d7de"/>
   
     <text x="28" y="38" class="title" >Eric Lam&apos;s Top Languages</text>
-    <text x="28" y="60" class="subtitle" >Detailed language bytes from 124 selected repositories</text>
+    <text x="28" y="60" class="subtitle" >Detailed language bytes from 125 selected repositories</text>
     
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="224.24" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >77.3%</text>
+    <rect x="185" y="83" width="224.02" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >77.2%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="32.21" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="122" class="small" >11.1%</text>
+    <rect x="185" y="112" width="32.46" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >11.2%</text>
           
 
             <text x="28" y="151" class="label" >Jupyter Notebook</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="9.36" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="9.35" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >3.2%</text>
           
 
             <text x="28" y="180" class="label" >HTML</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="8.01" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="170" width="8.00" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="180" class="small" >2.8%</text>
           
 
@@ -58,7 +58,7 @@
             <text x="28" y="238" class="label" >JavaScript</text>
             
     <rect x="185" y="228" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="228" width="3.88" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="228" width="3.87" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="238" class="small" >1.3%</text>
           
 
