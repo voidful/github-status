@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T19:41:52.450Z",
+  "generatedAt": "2026-07-16T19:37:12.230Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 489,
+    "followers": 490,
     "following": 336,
     "publicRepos": 212,
     "publicGists": 4
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3907,
-    "forks": 588,
-    "watchers": 3907,
+    "stars": 3913,
+    "forks": 590,
+    "watchers": 3913,
     "openIssues": 58,
-    "sizeKB": 59708135,
-    "latestPushAt": "2026-07-15T19:10:50.000Z"
+    "sizeKB": 59738570,
+    "latestPushAt": "2026-07-16T19:10:48.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1916,
-    "commits": 1113,
+    "totalContributions": 1924,
+    "commits": 1120,
     "issues": 0,
-    "pullRequests": 8,
+    "pullRequests": 9,
     "pullRequestReviews": 0,
     "repositories": 31,
     "restricted": 764,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-15T19:41:52.116Z"
+    "to": "2026-07-16T19:37:11.904Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115018879,
-      "percent": 77.24956197788664
+      "percent": 77.55161893683893
     },
     {
       "name": "Python",
-      "bytes": 16667075,
-      "percent": 11.194025314771022
+      "bytes": 16104226,
+      "percent": 10.85829395037604
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.2256667535995764
+      "percent": 3.238279577093186
     },
     {
       "name": "HTML",
-      "bytes": 4107873,
-      "percent": 2.758950466825426
+      "bytes": 4053213,
+      "percent": 2.7328837907196237
     },
     {
       "name": "CSS",
       "bytes": 2171396,
-      "percent": 1.4583639776261006
+      "percent": 1.4640663916831975
     },
     {
       "name": "JavaScript",
       "bytes": 1988162,
-      "percent": 1.3352994306358965
+      "percent": 1.3405206445170064
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.9161476308993388
+      "percent": 0.9197299006269005
     },
     {
       "name": "Swift",
-      "bytes": 863161,
-      "percent": 0.579720561929617
+      "bytes": 900116,
+      "percent": 0.6069043068221149
     }
   ],
   "topRepos": [
@@ -96,12 +96,12 @@
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
       "stars": 939,
-      "forks": 96,
+      "forks": 97,
       "openIssues": 2,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 3948
+      "score": 3950
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 90,
       "openIssues": 0,
-      "pushedAt": "2026-07-15T12:45:32Z",
+      "pushedAt": "2026-07-16T12:53:36Z",
       "archived": false,
       "fork": false,
       "score": 1040
@@ -164,14 +164,14 @@
       "fullName": "voidful/tw_stocker",
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
-      "language": "Python",
+      "language": "HTML",
       "stars": 197,
-      "forks": 68,
+      "forks": 67,
       "openIssues": 0,
-      "pushedAt": "2026-07-15T11:11:46Z",
+      "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 924
+      "score": 922
     }
   ]
 }
