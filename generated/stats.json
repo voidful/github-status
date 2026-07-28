@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:59:48.119Z",
+  "generatedAt": "2026-07-28T19:56:45.514Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 492,
+    "followers": 493,
     "following": 336,
     "publicRepos": 218,
     "publicGists": 4
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 3986,
-    "forks": 603,
-    "watchers": 3986,
+    "stars": 3991,
+    "forks": 604,
+    "watchers": 3991,
     "openIssues": 58,
-    "sizeKB": 59890371,
-    "latestPushAt": "2026-07-27T18:25:03.000Z"
+    "sizeKB": 59900360,
+    "latestPushAt": "2026-07-28T19:23:51.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 1980,
-    "commits": 1160,
+    "totalContributions": 1981,
+    "commits": 1161,
     "issues": 0,
     "pullRequests": 11,
     "pullRequestReviews": 0,
     "repositories": 37,
     "restricted": 772,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-27T19:59:47.774Z"
+    "to": "2026-07-28T19:56:45.049Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115159563,
-      "percent": 76.75059807843925
+      "percent": 76.75058273281017
     },
     {
       "name": "Python",
       "bytes": 17350883,
-      "percent": 11.56387374827937
+      "percent": 11.563871436181202
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.2009166332853174
+      "percent": 3.20091599328927
     },
     {
       "name": "HTML",
-      "bytes": 4060714,
-      "percent": 2.706351257389639
+      "bytes": 4060744,
+      "percent": 2.7063707104269104
     },
     {
       "name": "CSS",
       "bytes": 2231889,
-      "percent": 1.4874910179599214
+      "percent": 1.4874907205487482
     },
     {
       "name": "JavaScript",
       "bytes": 2088910,
-      "percent": 1.3921995503928106
+      "percent": 1.3921992720343555
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.9091181496099033
+      "percent": 0.9091179678394644
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5999019060186292
+      "percent": 0.5999017860733473
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 950,
+      "stars": 952,
       "forks": 97,
       "openIssues": 2,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 3994
+      "score": 4002
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -109,13 +109,13 @@
       "url": "https://github.com/voidful/awesome-chatgpt-dataset",
       "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
       "language": "Python",
-      "stars": 766,
+      "stars": 765,
       "forks": 66,
       "openIssues": 0,
       "pushedAt": "2025-10-20T09:50:30Z",
       "archived": false,
       "fork": false,
-      "score": 3196
+      "score": 3192
     },
     {
       "name": "TextRL",
@@ -137,13 +137,13 @@
       "url": "https://github.com/voidful/Codec-SUPERB",
       "description": "Audio Codec Speech processing Universal PERformance Benchmark",
       "language": "Python",
-      "stars": 308,
-      "forks": 28,
+      "stars": 309,
+      "forks": 29,
       "openIssues": 0,
       "pushedAt": "2026-07-04T06:22:09Z",
       "archived": false,
       "fork": false,
-      "score": 1288
+      "score": 1294
     },
     {
       "name": "tw-institutional-stocker",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-07-27T13:48:36Z",
+      "pushedAt": "2026-07-28T13:06:18Z",
       "archived": false,
       "fork": false,
       "score": 1042
