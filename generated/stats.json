@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:58:12.006Z",
+  "generatedAt": "2026-08-01T19:39:22.312Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -30,9 +30,9 @@
     "stars": 3999,
     "forks": 605,
     "watchers": 3999,
-    "openIssues": 58,
-    "sizeKB": 59952095,
-    "latestPushAt": "2026-07-31T18:21:06.000Z"
+    "openIssues": 59,
+    "sizeKB": 59897660,
+    "latestPushAt": "2026-08-01T19:23:06.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 37,
     "restricted": 772,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-07-31T19:58:11.536Z"
+    "to": "2026-08-01T19:39:21.884Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 954,
+      "stars": 955,
       "forks": 97,
-      "openIssues": 2,
+      "openIssues": 3,
       "pushedAt": "2026-06-17T09:20:49Z",
       "archived": false,
       "fork": false,
-      "score": 4010
+      "score": 4014
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw-institutional-stocker",
       "description": "",
       "language": "Python",
-      "stars": 215,
+      "stars": 214,
       "forks": 91,
       "openIssues": 0,
-      "pushedAt": "2026-07-31T13:09:23Z",
+      "pushedAt": "2026-08-01T12:15:56Z",
       "archived": false,
       "fork": false,
-      "score": 1042
+      "score": 1038
     },
     {
       "name": "tw_stocker",
