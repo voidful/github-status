@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:25:23.238Z",
+  "generatedAt": "2026-08-08T19:04:25.558Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4007,
+    "stars": 4009,
     "forks": 609,
-    "watchers": 4007,
+    "watchers": 4009,
     "openIssues": 59,
-    "sizeKB": 60020529,
-    "latestPushAt": "2026-08-07T18:56:35.000Z"
+    "sizeKB": 60024942,
+    "latestPushAt": "2026-08-08T19:00:28.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,48 +44,48 @@
     "repositories": 38,
     "restricted": 779,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-07T19:25:22.810Z"
+    "to": "2026-08-08T19:04:25.205Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115546387,
-      "percent": 75.16032204489302
+      "percent": 75.1603166669828
     },
     {
       "name": "Python",
       "bytes": 20539619,
-      "percent": 13.360559501695226
+      "percent": 13.360558545713562
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.1240995562280047
+      "percent": 3.1240993326908177
     },
     {
       "name": "HTML",
       "bytes": 4060683,
-      "percent": 2.6413828240447046
+      "percent": 2.641382635047115
     },
     {
       "name": "CSS",
       "bytes": 2268728,
-      "percent": 1.4757564605829352
+      "percent": 1.4757563549888457
     },
     {
       "name": "JavaScript",
-      "bytes": 2163777,
-      "percent": 1.4074881991189607
+      "bytes": 2163788,
+      "percent": 1.4074952536613488
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.887300711996382
+      "percent": 0.8873006485077826
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5855051827605906
+      "percent": 0.585505140866221
     }
   ],
   "topRepos": [
@@ -154,7 +154,7 @@
       "stars": 214,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-08-07T12:00:43Z",
+      "pushedAt": "2026-08-08T11:44:45Z",
       "archived": false,
       "fork": false,
       "score": 1040
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
-      "stars": 198,
+      "stars": 199,
       "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 928
+      "score": 932
     }
   ]
 }
