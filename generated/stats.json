@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:04:25.558Z",
+  "generatedAt": "2026-08-09T19:07:37.319Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 496,
+    "followers": 501,
     "following": 336,
-    "publicRepos": 219,
+    "publicRepos": 220,
     "publicGists": 4
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 132,
-    "allOwnedRepoCount": 219,
-    "sourceRepoCount": 132,
+    "selectedRepoCount": 133,
+    "allOwnedRepoCount": 220,
+    "sourceRepoCount": 133,
     "forkedRepoCount": 87,
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4009,
-    "forks": 609,
-    "watchers": 4009,
-    "openIssues": 59,
-    "sizeKB": 60024942,
-    "latestPushAt": "2026-08-08T19:00:28.000Z"
+    "stars": 4012,
+    "forks": 610,
+    "watchers": 4012,
+    "openIssues": 60,
+    "sizeKB": 60029770,
+    "latestPushAt": "2026-08-09T18:49:19.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2149,
-    "commits": 1321,
+    "totalContributions": 2186,
+    "commits": 1354,
     "issues": 0,
-    "pullRequests": 11,
+    "pullRequests": 14,
     "pullRequestReviews": 0,
-    "repositories": 38,
+    "repositories": 39,
     "restricted": 779,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-08T19:04:25.205Z"
+    "to": "2026-08-09T19:07:36.967Z"
   },
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 115546387,
-      "percent": 75.1603166669828
+      "bytes": 115572261,
+      "percent": 74.7576484918727
     },
     {
       "name": "Python",
-      "bytes": 20539619,
-      "percent": 13.360558545713562
+      "bytes": 20996389,
+      "percent": 13.581465438844557
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.1240993326908177
+      "percent": 3.106666436733879
     },
     {
       "name": "HTML",
-      "bytes": 4060683,
-      "percent": 2.641382635047115
+      "bytes": 4431490,
+      "percent": 2.866499009786171
     },
     {
       "name": "CSS",
-      "bytes": 2268728,
-      "percent": 1.4757563549888457
+      "bytes": 2269203,
+      "percent": 1.4678286879816518
     },
     {
       "name": "JavaScript",
-      "bytes": 2163788,
-      "percent": 1.4074952536613488
+      "bytes": 2170830,
+      "percent": 1.4041963415045762
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8873006485077826
+      "percent": 0.8823493911242227
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.585505140866221
+      "percent": 0.5822379431506536
     }
   ],
   "topRepos": [
@@ -154,7 +154,7 @@
       "stars": 214,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-08-08T11:44:45Z",
+      "pushedAt": "2026-08-09T11:46:12Z",
       "archived": false,
       "fork": false,
       "score": 1040
@@ -166,12 +166,12 @@
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
       "stars": 199,
-      "forks": 68,
+      "forks": 69,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 932
+      "score": 934
     }
   ]
 }
