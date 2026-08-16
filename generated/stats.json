@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:51:32.356Z",
+  "generatedAt": "2026-08-16T18:50:50.140Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4022,
-    "forks": 610,
-    "watchers": 4022,
+    "stars": 4024,
+    "forks": 609,
+    "watchers": 4024,
     "openIssues": 68,
-    "sizeKB": 60108564,
-    "latestPushAt": "2026-08-15T18:29:19.000Z"
+    "sizeKB": 60108798,
+    "latestPushAt": "2026-08-16T18:28:58.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 39,
     "restricted": 780,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-15T18:51:32.048Z"
+    "to": "2026-08-16T18:50:49.824Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 963,
+      "stars": 964,
       "forks": 100,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 4052
+      "score": 4056
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 214,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-08-15T11:36:54Z",
+      "pushedAt": "2026-08-16T11:36:18Z",
       "archived": false,
       "fork": false,
       "score": 1040
@@ -166,12 +166,12 @@
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
       "stars": 199,
-      "forks": 69,
+      "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 934
+      "score": 932
     }
   ]
 }
