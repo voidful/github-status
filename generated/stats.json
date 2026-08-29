@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T01:47:36.809Z",
+  "generatedAt": "2026-08-29T21:00:27.452Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 515,
+    "followers": 516,
     "following": 336,
     "publicRepos": 220,
     "publicGists": 4
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4257,
-    "forks": 629,
-    "watchers": 4257,
+    "stars": 4301,
+    "forks": 635,
+    "watchers": 4301,
     "openIssues": 68,
-    "sizeKB": 60176597,
-    "latestPushAt": "2026-08-28T23:26:09.000Z"
+    "sizeKB": 60176882,
+    "latestPushAt": "2026-08-29T19:41:21.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 39,
     "restricted": 780,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-29T01:47:36.368Z"
+    "to": "2026-08-29T21:00:26.957Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 1187,
-      "forks": 119,
+      "stars": 1229,
+      "forks": 125,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 4986
+      "score": 5166
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-08-28T21:25:26Z",
+      "pushedAt": "2026-08-29T15:41:25Z",
       "archived": false,
       "fork": false,
       "score": 1044
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
-      "stars": 199,
+      "stars": 200,
       "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 932
+      "score": 936
     }
   ]
 }
