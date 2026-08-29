@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T02:13:17.225Z",
+  "generatedAt": "2026-08-29T01:47:36.809Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 513,
+    "followers": 515,
     "following": 336,
     "publicRepos": 220,
     "publicGists": 4
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4206,
-    "forks": 628,
-    "watchers": 4206,
+    "stars": 4257,
+    "forks": 629,
+    "watchers": 4257,
     "openIssues": 68,
-    "sizeKB": 60220466,
-    "latestPushAt": "2026-08-28T01:18:21.000Z"
+    "sizeKB": 60176597,
+    "latestPushAt": "2026-08-28T23:26:09.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2231,
-    "commits": 1386,
+    "totalContributions": 2232,
+    "commits": 1387,
     "issues": 0,
     "pullRequests": 26,
     "pullRequestReviews": 0,
     "repositories": 39,
     "restricted": 780,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-08-28T02:13:16.889Z"
+    "to": "2026-08-29T01:47:36.368Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115609623,
-      "percent": 74.65292765057114
+      "percent": 74.65291174264557
     },
     {
       "name": "Python",
       "bytes": 21185898,
-      "percent": 13.680429617925316
+      "percent": 13.680426702738155
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.101312018020182
+      "percent": 3.101311357156069
     },
     {
       "name": "HTML",
-      "bytes": 4467427,
-      "percent": 2.8847642260299393
+      "bytes": 4467460,
+      "percent": 2.8847849204888365
     },
     {
       "name": "CSS",
       "bytes": 2270002,
-      "percent": 1.4658147883818615
+      "percent": 1.4658144760287726
     },
     {
       "name": "JavaScript",
       "bytes": 2174133,
-      "percent": 1.4039090288506448
+      "percent": 1.4039087296891648
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8808286394799547
+      "percent": 0.880828451782608
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5812344412291829
+      "percent": 0.5812343173728985
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 1136,
-      "forks": 118,
+      "stars": 1187,
+      "forks": 119,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 4780
+      "score": 4986
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-08-26T11:47:33Z",
+      "pushedAt": "2026-08-28T21:25:26Z",
       "archived": false,
       "fork": false,
       "score": 1044
