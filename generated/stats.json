@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:51:20.537Z",
+  "generatedAt": "2026-09-05T20:29:41.831Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,7 +12,7 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 516,
+    "followers": 517,
     "following": 336,
     "publicRepos": 221,
     "publicGists": 4
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4347,
+    "stars": 4350,
     "forks": 637,
-    "watchers": 4347,
+    "watchers": 4350,
     "openIssues": 68,
-    "sizeKB": 60278396,
-    "latestPushAt": "2026-09-04T18:08:51.000Z"
+    "sizeKB": 60278737,
+    "latestPushAt": "2026-09-05T20:06:06.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 40,
     "restricted": 778,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-04T20:51:20.125Z"
+    "to": "2026-09-05T20:29:41.401Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 1271,
+      "stars": 1274,
       "forks": 126,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 5336
+      "score": 5348
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 92,
       "openIssues": 0,
-      "pushedAt": "2026-09-04T15:01:11Z",
+      "pushedAt": "2026-09-05T13:55:33Z",
       "archived": false,
       "fork": false,
       "score": 1044
