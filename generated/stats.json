@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:30:54.564Z",
+  "generatedAt": "2026-09-18T21:00:16.848Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -28,64 +28,64 @@
   },
   "totals": {
     "stars": 4366,
-    "forks": 634,
+    "forks": 635,
     "watchers": 4366,
     "openIssues": 68,
-    "sizeKB": 60407927,
-    "latestPushAt": "2026-09-17T20:02:41.000Z"
+    "sizeKB": 60414743,
+    "latestPushAt": "2026-09-18T20:29:49.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2266,
-    "commits": 1413,
+    "totalContributions": 2267,
+    "commits": 1414,
     "issues": 0,
     "pullRequests": 35,
     "pullRequestReviews": 0,
     "repositories": 40,
     "restricted": 778,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-17T21:30:53.834Z"
+    "to": "2026-09-18T21:00:16.222Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115609623,
-      "percent": 74.46510934007685
+      "percent": 74.46503883366692
     },
     {
       "name": "Python",
       "bytes": 21541894,
-      "percent": 13.87531115902303
+      "percent": 13.87529802134842
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.093509468249239
+      "percent": 3.093506539196309
     },
     {
       "name": "HTML",
-      "bytes": 4469107,
-      "percent": 2.878588587798637
+      "bytes": 4469254,
+      "percent": 2.8786805460607834
     },
     {
       "name": "CSS",
       "bytes": 2270002,
-      "percent": 1.4621269643980515
+      "percent": 1.4621255800003916
     },
     {
       "name": "JavaScript",
       "bytes": 2174133,
-      "percent": 1.4003769527461336
+      "percent": 1.4003756268157435
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8786125743890254
+      "percent": 0.878611742485079
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5797721212078739
+      "percent": 0.5797715722574837
     }
   ],
   "topRepos": [
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/TextRL",
       "description": "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)",
       "language": "Python",
-      "stars": 564,
+      "stars": 565,
       "forks": 61,
       "openIssues": 4,
       "pushedAt": "2026-04-23T09:14:17Z",
       "archived": false,
       "fork": false,
-      "score": 2378
+      "score": 2382
     },
     {
       "name": "Codec-SUPERB",
@@ -154,7 +154,7 @@
       "stars": 215,
       "forks": 90,
       "openIssues": 0,
-      "pushedAt": "2026-09-17T15:36:40Z",
+      "pushedAt": "2026-09-18T15:02:36Z",
       "archived": false,
       "fork": false,
       "score": 1040
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
-      "stars": 200,
-      "forks": 67,
+      "stars": 199,
+      "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 934
+      "score": 932
     }
   ]
 }
