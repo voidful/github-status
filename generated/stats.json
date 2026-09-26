@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:41:12.543Z",
+  "generatedAt": "2026-09-26T21:18:03.384Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,12 +27,12 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4374,
+    "stars": 4375,
     "forks": 636,
-    "watchers": 4374,
+    "watchers": 4375,
     "openIssues": 69,
-    "sizeKB": 60443702,
-    "latestPushAt": "2026-09-25T20:18:24.000Z"
+    "sizeKB": 60446417,
+    "latestPushAt": "2026-09-26T18:23:15.000Z"
   },
   "contributions": {
     "year": 2026,
@@ -44,7 +44,7 @@
     "repositories": 41,
     "restricted": 778,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-09-25T21:41:12.145Z"
+    "to": "2026-09-26T21:18:02.649Z"
   },
   "languages": [
     {
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5和GPT6 加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 1290,
+      "stars": 1291,
       "forks": 127,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 5414
+      "score": 5418
     },
     {
       "name": "awesome-chatgpt-dataset",
