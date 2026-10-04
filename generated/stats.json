@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T21:28:28.166Z",
+  "generatedAt": "2026-10-04T21:39:20.061Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4377,
-    "forks": 637,
-    "watchers": 4377,
+    "stars": 4379,
+    "forks": 638,
+    "watchers": 4379,
     "openIssues": 69,
-    "sizeKB": 60459960,
-    "latestPushAt": "2026-10-03T20:40:03.000Z"
+    "sizeKB": 60460261,
+    "latestPushAt": "2026-10-04T19:14:49.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2291,
-    "commits": 1429,
+    "totalContributions": 2300,
+    "commits": 1430,
     "issues": 0,
     "pullRequests": 35,
     "pullRequestReviews": 0,
     "repositories": 41,
-    "restricted": 786,
+    "restricted": 794,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-10-03T21:28:27.746Z"
+    "to": "2026-10-04T21:39:19.676Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115609623,
-      "percent": 74.36997534647541
+      "percent": 74.35302001619281
     },
     {
       "name": "Python",
       "bytes": 21718416,
-      "percent": 13.971138565900324
+      "percent": 13.967953338693981
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 4802779,
-      "percent": 3.0895573098146842
+      "percent": 3.0888529332921575
     },
     {
       "name": "HTML",
-      "bytes": 4489318,
-      "percent": 2.887912444645618
+      "bytes": 4524767,
+      "percent": 2.9100526633462747
     },
     {
       "name": "CSS",
       "bytes": 2270002,
-      "percent": 1.4602590026303424
+      "percent": 1.4599260836859378
     },
     {
       "name": "JavaScript",
       "bytes": 2176000,
-      "percent": 1.3997888943373729
+      "percent": 1.399469761744968
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8774900899963906
+      "percent": 0.8772900343391676
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5790314248232439
+      "percent": 0.5788994136318169
     }
   ],
   "topRepos": [
@@ -96,12 +96,12 @@
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5和GPT6 加持 以及 本人親自訪談",
       "language": "HTML",
       "stars": 1292,
-      "forks": 128,
+      "forks": 129,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 5424
+      "score": 5426
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -154,7 +154,7 @@
       "stars": 213,
       "forks": 90,
       "openIssues": 0,
-      "pushedAt": "2026-10-03T15:12:39Z",
+      "pushedAt": "2026-10-04T15:51:45Z",
       "archived": false,
       "fork": false,
       "score": 1032
