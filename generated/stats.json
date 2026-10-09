@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:27:21.175Z",
+  "generatedAt": "2026-10-09T22:45:13.189Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -31,61 +31,61 @@
     "forks": 639,
     "watchers": 4387,
     "openIssues": 69,
-    "sizeKB": 60481530,
-    "latestPushAt": "2026-10-08T23:00:09.000Z"
+    "sizeKB": 60482208,
+    "latestPushAt": "2026-10-09T22:20:53.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2317,
-    "commits": 1437,
+    "totalContributions": 2318,
+    "commits": 1438,
     "issues": 0,
     "pullRequests": 36,
     "pullRequestReviews": 0,
     "repositories": 42,
     "restricted": 802,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-10-08T23:27:20.697Z"
+    "to": "2026-10-09T22:45:12.675Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115609623,
-      "percent": 74.12926079529716
+      "percent": 74.12933922304748
     },
     {
       "name": "Python",
       "bytes": 21625928,
-      "percent": 13.86661434448514
+      "percent": 13.866629015174636
     },
     {
       "name": "HTML",
-      "bytes": 6168631,
-      "percent": 3.9553459676012843
+      "bytes": 6168466,
+      "percent": 3.9552443536627986
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 3691621,
-      "percent": 2.3670792168087575
+      "percent": 2.3670817211463944
     },
     {
       "name": "CSS",
       "bytes": 2291601,
-      "percent": 1.4693819057585178
+      "percent": 1.4693834603446017
     },
     {
       "name": "JavaScript",
       "bytes": 2183522,
-      "percent": 1.4000813045663927
+      "percent": 1.4000827858333824
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8746499030500754
+      "percent": 0.8746508284177843
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5771572640628687
+      "percent": 0.5771578746874091
     }
   ],
   "topRepos": [
@@ -165,13 +165,13 @@
       "url": "https://github.com/voidful/tw_stocker",
       "description": "keep tracking and store taiwan stock information - 每天更新台股歷史資料庫",
       "language": "HTML",
-      "stars": 198,
+      "stars": 197,
       "forks": 68,
       "openIssues": 0,
       "pushedAt": "2026-07-16T15:47:43Z",
       "archived": false,
       "fork": false,
-      "score": 928
+      "score": 924
     }
   ]
 }
