@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:52:47.465Z",
+  "generatedAt": "2026-10-11T22:08:38.869Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4389,
+    "stars": 4391,
     "forks": 639,
-    "watchers": 4389,
-    "openIssues": 70,
-    "sizeKB": 60482408,
-    "latestPushAt": "2026-10-10T19:50:01.000Z"
+    "watchers": 4391,
+    "openIssues": 69,
+    "sizeKB": 60483361,
+    "latestPushAt": "2026-10-11T21:34:30.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2319,
-    "commits": 1438,
+    "totalContributions": 2329,
+    "commits": 1445,
     "issues": 0,
-    "pullRequests": 36,
+    "pullRequests": 38,
     "pullRequestReviews": 0,
     "repositories": 42,
-    "restricted": 803,
+    "restricted": 804,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-10-10T21:52:46.971Z"
+    "to": "2026-10-11T22:08:38.413Z"
   },
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 115609623,
-      "percent": 74.12933922304748
+      "bytes": 115610178,
+      "percent": 74.09161613862494
     },
     {
       "name": "Python",
-      "bytes": 21625928,
-      "percent": 13.866629015174636
+      "bytes": 21682681,
+      "percent": 13.895877554208564
     },
     {
       "name": "HTML",
-      "bytes": 6168466,
-      "percent": 3.9552443536627986
+      "bytes": 6188998,
+      "percent": 3.966371058599335
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 3691621,
-      "percent": 2.3670817211463944
+      "percent": 2.365865798262907
     },
     {
       "name": "CSS",
-      "bytes": 2291601,
-      "percent": 1.4693834603446017
+      "bytes": 2291766,
+      "percent": 1.4687344115286454
     },
     {
       "name": "JavaScript",
-      "bytes": 2183522,
-      "percent": 1.4000827858333824
+      "bytes": 2185670,
+      "percent": 1.4007401895506846
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8746508284177843
+      "percent": 0.8742015376527745
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5771578746874091
+      "percent": 0.576861400146227
     }
   ],
   "topRepos": [
@@ -109,13 +109,13 @@
       "url": "https://github.com/voidful/awesome-chatgpt-dataset",
       "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
       "language": "Python",
-      "stars": 770,
+      "stars": 771,
       "forks": 66,
       "openIssues": 0,
       "pushedAt": "2025-10-20T09:50:30Z",
       "archived": false,
       "fork": false,
-      "score": 3212
+      "score": 3216
     },
     {
       "name": "TextRL",
@@ -151,13 +151,13 @@
       "url": "https://github.com/voidful/tw-institutional-stocker",
       "description": "",
       "language": "Python",
-      "stars": 213,
+      "stars": 214,
       "forks": 90,
       "openIssues": 0,
       "pushedAt": "2026-10-04T15:51:45Z",
       "archived": false,
       "fork": false,
-      "score": 1032
+      "score": 1036
     },
     {
       "name": "tw_stocker",
