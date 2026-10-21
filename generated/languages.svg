@@ -23,22 +23,22 @@
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="212.66" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="83" width="212.61" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="93" class="small" >73.3%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="39.88" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="122" class="small" >13.8%</text>
+    <rect x="185" y="112" width="39.87" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="122" class="small" >13.7%</text>
           
 
             <text x="28" y="151" class="label" >HTML</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="14.35" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="151" class="small" >4.9%</text>
+    <rect x="185" y="141" width="14.42" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="151" class="small" >5.0%</text>
           
 
             <text x="28" y="180" class="label" >Jupyter Notebook</text>
