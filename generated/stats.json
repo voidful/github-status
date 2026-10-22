@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:50:28.485Z",
+  "generatedAt": "2026-10-22T21:45:45.612Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -12,80 +12,80 @@
     "profileUrl": "https://github.com/voidful",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
-    "followers": 523,
+    "followers": 524,
     "following": 336,
-    "publicRepos": 224,
-    "publicGists": 4
+    "publicRepos": 225,
+    "publicGists": 5
   },
   "repositoryPolicy": {
     "includeForks": false,
     "includeArchived": true,
-    "selectedRepoCount": 137,
-    "allOwnedRepoCount": 224,
-    "sourceRepoCount": 137,
+    "selectedRepoCount": 138,
+    "allOwnedRepoCount": 225,
+    "sourceRepoCount": 138,
     "forkedRepoCount": 87,
     "archivedRepoCount": 2
   },
   "totals": {
     "stars": 4403,
-    "forks": 639,
+    "forks": 640,
     "watchers": 4403,
     "openIssues": 69,
-    "sizeKB": 60595202,
-    "latestPushAt": "2026-10-21T18:25:52.000Z"
+    "sizeKB": 60595900,
+    "latestPushAt": "2026-10-22T18:20:17.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2375,
-    "commits": 1476,
+    "totalContributions": 2394,
+    "commits": 1485,
     "issues": 0,
-    "pullRequests": 41,
+    "pullRequests": 42,
     "pullRequestReviews": 0,
-    "repositories": 43,
-    "restricted": 815,
+    "repositories": 44,
+    "restricted": 823,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-10-21T21:50:27.936Z"
+    "to": "2026-10-22T21:45:45.072Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115610178,
-      "percent": 73.31420736594526
+      "percent": 73.36924335845636
     },
     {
       "name": "Python",
-      "bytes": 21678959,
-      "percent": 13.747714285188847
+      "bytes": 21595480,
+      "percent": 13.705056552742937
     },
     {
       "name": "HTML",
-      "bytes": 7839063,
-      "percent": 4.97114268206307
+      "bytes": 7847347,
+      "percent": 4.980131695336136
     },
     {
       "name": "Jupyter Notebook",
-      "bytes": 3691621,
-      "percent": 2.341041871853862
+      "bytes": 3648528,
+      "percent": 2.3154513154727785
     },
     {
       "name": "CSS",
       "bytes": 2296050,
-      "percent": 1.4560403654302705
+      "percent": 1.4571333954107721
     },
     {
       "name": "JavaScript",
       "bytes": 2189625,
-      "percent": 1.3885509397248563
+      "percent": 1.3895933062983434
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.8650289486355531
+      "percent": 0.8656783142694385
     },
     {
       "name": "Swift",
       "bytes": 900116,
-      "percent": 0.5708086625159006
+      "percent": 0.5712371609257474
     }
   ],
   "topRepos": [
@@ -95,13 +95,13 @@
       "url": "https://github.com/voidful/hung-yi-lee-skill",
       "description": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5和GPT6 加持 以及 本人親自訪談",
       "language": "HTML",
-      "stars": 1309,
+      "stars": 1308,
       "forks": 131,
       "openIssues": 1,
       "pushedAt": "2026-08-11T14:05:40Z",
       "archived": false,
       "fork": false,
-      "score": 5498
+      "score": 5494
     },
     {
       "name": "awesome-chatgpt-dataset",
@@ -109,13 +109,13 @@
       "url": "https://github.com/voidful/awesome-chatgpt-dataset",
       "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
       "language": "Python",
-      "stars": 771,
+      "stars": 772,
       "forks": 66,
       "openIssues": 0,
       "pushedAt": "2025-10-20T09:50:30Z",
       "archived": false,
       "fork": false,
-      "score": 3216
+      "score": 3220
     },
     {
       "name": "TextRL",
