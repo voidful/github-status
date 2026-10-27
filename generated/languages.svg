@@ -23,14 +23,14 @@
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="212.76" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="83" width="212.75" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="93" class="small" >73.4%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="39.74" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="39.75" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >13.7%</text>
           
 
