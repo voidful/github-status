@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:59:17.745Z",
+  "generatedAt": "2026-11-17T01:54:16.164Z",
   "owner": {
     "login": "voidful",
     "id": 10904842,
@@ -13,7 +13,7 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904842?v=4",
     "createdAt": "2015-02-08T05:15:03Z",
     "followers": 528,
-    "following": 336,
+    "following": 337,
     "publicRepos": 228,
     "publicGists": 5
   },
@@ -27,65 +27,65 @@
     "archivedRepoCount": 2
   },
   "totals": {
-    "stars": 4430,
+    "stars": 4432,
     "forks": 640,
-    "watchers": 4430,
+    "watchers": 4432,
     "openIssues": 69,
-    "sizeKB": 60667841,
-    "latestPushAt": "2026-11-15T19:34:20.000Z"
+    "sizeKB": 60671552,
+    "latestPushAt": "2026-11-16T23:15:56.000Z"
   },
   "contributions": {
     "year": 2026,
-    "totalContributions": 2644,
-    "commits": 1540,
+    "totalContributions": 2647,
+    "commits": 1543,
     "issues": 0,
     "pullRequests": 44,
     "pullRequestReviews": 0,
     "repositories": 47,
     "restricted": 1013,
     "from": "2026-01-01T00:00:00.000Z",
-    "to": "2026-11-15T22:59:17.263Z"
+    "to": "2026-11-17T01:54:15.603Z"
   },
   "languages": [
     {
       "name": "TypeScript",
       "bytes": 115733191,
-      "percent": 66.92921360076313
+      "percent": 66.50074194003696
     },
     {
       "name": "Python",
-      "bytes": 21662876,
-      "percent": 12.527773946981599
+      "bytes": 21668329,
+      "percent": 12.450706168646288
     },
     {
       "name": "HTML",
-      "bytes": 16949579,
-      "percent": 9.802045407475278
+      "bytes": 18058261,
+      "percent": 10.376347046776182
     },
     {
       "name": "JavaScript",
       "bytes": 8213373,
-      "percent": 4.749843939753987
+      "percent": 4.719436089256946
     },
     {
       "name": "Jupyter Notebook",
       "bytes": 3648528,
-      "percent": 2.1099661016031703
+      "percent": 2.0964583875424223
     },
     {
       "name": "CSS",
       "bytes": 2316841,
-      "percent": 1.3398433485516326
+      "percent": 1.3312658549015308
     },
     {
       "name": "Rust",
       "bytes": 1364076,
-      "percent": 0.7888535102404165
+      "percent": 0.7838033780870852
     },
     {
       "name": "Swift",
       "bytes": 908651,
-      "percent": 0.525478441768248
+      "percent": 0.5221144007388211
     }
   ],
   "topRepos": [
@@ -123,13 +123,13 @@
       "url": "https://github.com/voidful/TextRL",
       "description": "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)",
       "language": "Python",
-      "stars": 564,
+      "stars": 565,
       "forks": 61,
       "openIssues": 4,
       "pushedAt": "2026-04-23T09:14:17Z",
       "archived": false,
       "fork": false,
-      "score": 2378
+      "score": 2382
     },
     {
       "name": "Codec-SUPERB",
@@ -137,13 +137,13 @@
       "url": "https://github.com/voidful/Codec-SUPERB",
       "description": "Audio Codec Speech processing Universal PERformance Benchmark",
       "language": "Python",
-      "stars": 311,
+      "stars": 312,
       "forks": 29,
       "openIssues": 0,
       "pushedAt": "2026-07-04T06:22:09Z",
       "archived": false,
       "fork": false,
-      "score": 1302
+      "score": 1306
     },
     {
       "name": "tw-institutional-stocker",
