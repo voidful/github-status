@@ -23,36 +23,36 @@
             <text x="28" y="93" class="label" >TypeScript</text>
             
     <rect x="185" y="83" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="83" width="192.74" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="93" class="small" >66.5%</text>
+    <rect x="185" y="83" width="192.60" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="93" class="small" >66.4%</text>
           
 
             <text x="28" y="122" class="label" >Python</text>
             
     <rect x="185" y="112" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="112" width="36.09" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="112" width="36.10" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="122" class="small" >12.4%</text>
           
 
             <text x="28" y="151" class="label" >HTML</text>
             
     <rect x="185" y="141" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="141" width="30.11" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="141" width="30.09" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="151" class="small" >10.4%</text>
           
 
             <text x="28" y="180" class="label" >JavaScript</text>
             
     <rect x="185" y="170" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="170" width="13.81" height="8" rx="4" fill="#0969da"/>
+    <rect x="185" y="170" width="13.80" height="8" rx="4" fill="#0969da"/>
             <text x="490" y="180" class="small" >4.8%</text>
           
 
             <text x="28" y="209" class="label" >Jupyter Notebook</text>
             
     <rect x="185" y="199" width="290" height="8" rx="4" fill="#eaeef2"/>
-    <rect x="185" y="199" width="6.08" height="8" rx="4" fill="#0969da"/>
-            <text x="490" y="209" class="small" >2.1%</text>
+    <rect x="185" y="199" width="6.24" height="8" rx="4" fill="#0969da"/>
+            <text x="490" y="209" class="small" >2.2%</text>
           
 
             <text x="28" y="238" class="label" >CSS</text>
